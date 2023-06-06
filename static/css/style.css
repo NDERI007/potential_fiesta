@@ -1,0 +1,62 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}li{
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+ }
+ li,a{
+     padding: 20px;
+ }
+ li,a:hover{
+     color: mediumaquamarine;
+ }
+ .fruits{
+     background-color: magenta;
+     background-size: contain;
+     border:7px solid olivedrab;
+     text-align: center;
+     padding: 25px;
+     margin:15px;
+     color: azure;
+ }
+ .cars{
+     background-color: blanchedalmond;
+     border: 5px double aquamarine;
+     text-align: center;
+     margin: 15px;
+     font-family: "Lucida sans", sans-serif;
+     padding: 15px;
+ }
+ .FRUITS{
+     background-color: #333364;
+     border: 5px dotted darkslategray;
+     text-align: center;
+     margin: 15px;
+     font-family: "Ubuntu", sans-serif;
+     padding: 15px;
+ }
+ .fruitss{
+     border: 5px double aquamarine;
+     text-align: center;
+     margin: 15px;
+     font-family: "Lucida sans", sans-serif;
+     padding:15px;
+ }
+ #matunda{
+     background-color: chocolate;
+     border: 2px solid chartreuse;
+     text-align: center;
+     padding: 10px;
+     margin: 15px;
+ }
+ #magari{
+     background-color: coral;
+     border: 5px double olivedrab;
+     text-align: center;
+     margin: 10px;
+ }
